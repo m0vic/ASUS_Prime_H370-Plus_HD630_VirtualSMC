@@ -26,15 +26,15 @@ Lilu.kext
 
 RealtekRTL8111.kext
 
-RtWlanU.kext
+RtWlanU.kext - for my USB WiFI
 
-RtWlanU1827.kext
+RtWlanU1827.kext - for my USB WiFI
 
-SMCProcessor.kext
+SMCProcessor.kext - for hardware monitor
 
-SMCSuperIO.kext
+SMCSuperIO.kext - for hardware monitor
 
-USBPorts.kext
+USBPorts.kext - generated 
 
 VirtualSMC.kext
 
