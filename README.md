@@ -1,4 +1,4 @@
-# ASUS_Prime_H370-Plus_HD630_VirtualSMC
+# Hackintosh Catalina ASUS_Prime_H370-Plus_HD630_VirtualSMC
 
 list of /Clover/Drivers/UEFI
 
